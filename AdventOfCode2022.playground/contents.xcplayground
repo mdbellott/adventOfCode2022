@@ -3,13 +3,10 @@
     <pages>
         <page name='01'/>
         <page name='02'/>
+        <page name='03'/>
+        <page name='04'/>
+        <page name='05'/>
+        <page name='06'/>
         <page name='07'/>
-        <page name='08'/>
-        <page name='09'/>
-        <page name='10'/>
-        <page name='11'/>
-        <page name='12'/>
-        <page name='13'/>
-        <page name='14'/>
     </pages>
 </playground>
