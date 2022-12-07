@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='01'/>
+        <page name='02'/>
+        <page name='07'/>
+        <page name='08'/>
+        <page name='09'/>
+        <page name='10'/>
+        <page name='11'/>
+        <page name='12'/>
+        <page name='13'/>
+        <page name='14'/>
+    </pages>
+</playground>
