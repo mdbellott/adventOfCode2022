@@ -32,7 +32,7 @@ public struct Input {
     }
 
     public static subscript(dynamicMember member: String) -> Input {
-        return .init(fileName: "input-\(member)")
+        return .init(fileName: "\(member)")
     }
 }
 
