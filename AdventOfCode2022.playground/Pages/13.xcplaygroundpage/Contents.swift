@@ -1,12 +1,12 @@
 import Foundation
 
 //
-// --- Day 12: Hill Climbing Algorithm ---
+// --- Day 9: Rope Bridge ---
 //
 
 // MARK: - Input
 
-let input = try Input.12.load(as: [String].self)
+let input = try Input.13.load(as: [String].self)
 
 // MARK: - Helpers 1
 

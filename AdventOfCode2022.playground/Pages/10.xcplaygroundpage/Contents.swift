@@ -1,7 +1,7 @@
 import Foundation
 
 //
-// --- Day 9: Rope Bridge ---
+// --- Day 10: Cathode-Ray Tube ---
 //
 
 // MARK: - Input
